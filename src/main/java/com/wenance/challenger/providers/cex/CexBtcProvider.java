@@ -11,7 +11,7 @@ import java.math.BigDecimal;
 @Repository
 class CexBtcProvider implements BTCProvider {
 
-    private RestTemplate restTemplate;
+    private final RestTemplate restTemplate;
 
     public CexBtcProvider(RestTemplate restTemplate) {
         this.restTemplate = restTemplate;

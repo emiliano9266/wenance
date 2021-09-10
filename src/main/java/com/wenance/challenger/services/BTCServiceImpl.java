@@ -2,7 +2,6 @@ package com.wenance.challenger.services;
 
 import com.wenance.challenger.repository.BTCPrice;
 import com.wenance.challenger.repository.BTCRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.rest.webmvc.ResourceNotFoundException;
 import org.springframework.stereotype.Service;
 
