@@ -40,3 +40,7 @@ Run test
 ## Documentacion
 
 http://localhost:8080/docs-ui.html
+
+## Coleccion de request para postman
+
+https://www.getpostman.com/collections/ae725af431c6c063bb3a
